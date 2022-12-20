@@ -1,0 +1,6 @@
+whoami
+uname -a
+clear
+nano
+bash
+emacs file.txt
