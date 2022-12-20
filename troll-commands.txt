@@ -3,4 +3,5 @@ uname -a
 clear
 nano
 bash
+sh
 emacs file.txt
