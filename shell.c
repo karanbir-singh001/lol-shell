@@ -25,7 +25,7 @@ int main(int argc, char **argv){
     char prompt[32];
 
     if(argc != 3 && argc != 1){ //either run without flags or with a prompt
-        fprintf(stderr, "Useage: shell -p <prompt>\n");
+        fprintf(stderr, "Usage: shell -p <prompt>\n");
         defaultPrompt(prompt);
     }
     
